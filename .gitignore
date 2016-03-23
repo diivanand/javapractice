@@ -1,5 +1,5 @@
 *.class
-*.iml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -33,7 +33,7 @@ hs_err_pid*
 .idea/gradle.xml
 .idea/libraries
 
-.idea/*
+
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
