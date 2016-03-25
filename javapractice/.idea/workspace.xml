@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c262dd4-f1d8-493c-833c-92b42755b04c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java" afterPath="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java" />
-    </list>
+    <list default="true" id="2c262dd4-f1d8-493c-833c-92b42755b04c" name="Default" comment="" />
     <ignored path="javapractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,8 +38,8 @@
       <file leaf-file-name="DiivListNodeQueue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13612257">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.15556864">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#225#226#0" expanded="true" />
@@ -818,7 +816,7 @@
       <workItem from="1458628192347" duration="427000" />
       <workItem from="1458629238832" duration="551000" />
       <workItem from="1458708257240" duration="9852000" />
-      <workItem from="1458884391205" duration="4323000" />
+      <workItem from="1458884391205" duration="4428000" />
     </task>
     <servers />
   </component>
@@ -855,11 +853,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15153000" />
+    <option name="totallyTimeSpent" value="15258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3026" height="1946" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1224,8 +1222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13612257">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.15556864">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#198#199#0" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
