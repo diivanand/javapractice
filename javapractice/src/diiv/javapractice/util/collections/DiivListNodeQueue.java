@@ -1,7 +1,7 @@
 package diiv.javapractice.util.collections;
 
 
-public class DiivListNodeQueue<T> extends DiivQueue<T> {
+public class DiivListNodeQueue<T> implements DiivQueue<T> {
     @Override
     public void enqueue(T obj) {
 

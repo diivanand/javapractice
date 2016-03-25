@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c262dd4-f1d8-493c-833c-92b42755b04c" name="Default" comment="" />
+    <list default="true" id="2c262dd4-f1d8-493c-833c-92b42755b04c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java" afterPath="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java" />
+    </list>
     <ignored path="javapractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,13 +25,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ListUnitTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListUnitTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ListUnitTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2993518">
+            <state vertical-scroll-proportion="0.0">
               <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiivListNodeQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13612257">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,21 +150,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiivRedBlackTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivRedBlackTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -184,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivArrayStack.java" />
         <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivRedBlackTree.java" />
         <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivBinaryHeapPriorityQueue.java" />
-        <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java" />
         <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivTreeSet.java" />
         <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivHashSet.java" />
         <option value="$PROJECT_DIR$/test/PriorityQueueUnitTests.java" />
@@ -192,6 +195,7 @@
         <option value="$PROJECT_DIR$/test/QueueUnitTests.java" />
         <option value="$PROJECT_DIR$/test/BinarySearchTreeUnitTests.java" />
         <option value="$PROJECT_DIR$/test/SetUnitTests.java" />
+        <option value="$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java" />
       </list>
     </option>
   </component>
@@ -814,7 +818,7 @@
       <workItem from="1458628192347" duration="427000" />
       <workItem from="1458629238832" duration="551000" />
       <workItem from="1458708257240" duration="9852000" />
-      <workItem from="1458884391205" duration="4007000" />
+      <workItem from="1458884391205" duration="4323000" />
     </task>
     <servers />
   </component>
@@ -851,7 +855,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14837000" />
+    <option name="totallyTimeSpent" value="15153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3026" height="1946" extended-state="6" />
@@ -1085,21 +1089,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1225,10 +1214,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ListUnitTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2993518">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diiv/javapractice/util/collections/DiivListNodeQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13612257">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
