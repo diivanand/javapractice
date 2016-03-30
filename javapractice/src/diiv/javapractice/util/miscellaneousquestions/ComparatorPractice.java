@@ -20,8 +20,13 @@ public class ComparatorPractice {
             }
         };
 
+        PriorityQueue<String> p = new PriorityQueue<String>(10, byLength);
+
         String[] strings = new String[] {"zoo", "apple", "a", "bat", "bat", "battle", "z"};
         List<String> list = Arrays.asList(strings);
+        Queue<String> queue = new LinkedList<String>();
+        Stack<String> stack = new Stack<String>();
+
         list.sort(byLength);
         Arrays.sort(strings, byLength);
 
@@ -36,5 +41,15 @@ public class ComparatorPractice {
             System.out.print(s + " ");
         }
         System.out.println();
+
+        for (String s : strings)
+        {
+            p.add(s);
+        }
+
+        for (String s : strings)
+        {
+            System.out.print(p.remove() + " ");
+        }
     }
 }
